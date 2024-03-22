@@ -1,0 +1,73 @@
+style{
+    font-family: Roboto;
+}
+
+.content-wrapper {
+width: 100%; 
+text-align: center;
+}
+
+body {
+   font-family: 'Roboto', sans-serif;
+   text-align: center;
+   font-size: 21px;
+   color: #131313;
+   margin: 0;
+}
+header {
+background-color: #D7D7D7;
+padding : 100px 0;
+text-align: center;
+}
+.about-me {
+background-color: #FFEAEA;
+padding: 100px 0 ;
+text-align: center;
+}
+.articles {
+background-color: #EAF9FF;
+padding: 100px 0;
+
+text-align: center;}
+
+.h1 {
+font-size: 80px;
+font-weight: 900;
+font-family: Roboto;
+
+}
+
+.h2 {
+font-size: 60px;
+font-weight: 900;
+font-family: Roboto;
+}
+
+.h3 {
+font-size: 36px;
+font-weight: 900;
+}
+p {
+font-size: 21px; 
+}
+
+.small {
+font-size: 16px;
+}
+a {
+color: #99D930;
+text-decoration: none; 
+}
+
+a:hover {
+color: #131313; 
+}
+img {
+    border-radius: 75%;
+    border-top-left-radius: 75%;
+    border-top-right-radius: 75%;
+    object-fit: cover;
+    
+width: 500px;
+  }
+
